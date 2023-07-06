@@ -14,6 +14,30 @@ const projects = [
     link: "https://thankfulthoughts.io/",
   },
   {
+    name: "Thankful Thoughts",
+    description:
+      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+    image: "/thankfulthoughts.png",
+    github: "https://github.com/hqasmei/thankful-thoughts",
+    link: "https://thankfulthoughts.io/",
+  },
+  {
+    name: "Thankful Thoughts",
+    description:
+      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+    image: "/thankfulthoughts.png",
+    github: "https://github.com/hqasmei/thankful-thoughts",
+    link: "https://thankfulthoughts.io/",
+  },
+  {
+    name: "Thankful Thoughts",
+    description:
+      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
+    image: "/thankfulthoughts.png",
+    github: "https://github.com/hqasmei/thankful-thoughts",
+    link: "https://thankfulthoughts.io/",
+  },
+  {
     name: "PlatoIO",
     description: "PlatoIO is a to do list app that built using the PERN stack.",
     image: "/platoio.png",
@@ -34,7 +58,7 @@ const ProjectsSection = () => {
   return (
     <section id="projects">
       <h1 className="my-10 text-center font-bold text-4xl">
-        Projects
+        Proyectos
         <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded"></hr>
       </h1>
 
